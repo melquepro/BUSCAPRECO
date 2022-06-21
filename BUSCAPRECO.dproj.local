@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/15 08:38:23.000.637,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/15 08:38:51.000.599,C:\Users\Developer\Documents\BUSCAPRECO\uPrincipal.dfm=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/06/15 08:38:51.000.599,C:\Users\Developer\Documents\BUSCAPRECO\uPrincipal.pas=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/15 08:38:54.000.800,C:\Users\Developer\Documents\BUSCAPRECO\BUSCAPRECO.dproj=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/06/15 13:50:46.000.503,=C:\Users\Developer\Documents\BUSCAPRECO\Unit1.pas</Transaction>
+    <Transaction>2022/06/15 13:58:01.000.872,C:\Users\Developer\Documents\BUSCAPRECO\uConexao.pas=C:\Users\Developer\Documents\BUSCAPRECO\Unit1.pas</Transaction>
+    <Transaction>2022/06/18 16:35:47.000.172,C:\Users\Developer\Documents\BUSCAPRECO\uConexao.pas=</Transaction>
+    <Transaction>2022/06/18 16:43:30.000.467,=C:\Users\Developer\Documents\BUSCAPRECO\Unit1.pas</Transaction>
+    <Transaction>2022/06/18 16:43:54.000.833,C:\Users\Developer\Documents\BUSCAPRECO\Unit1.pas=C:\Users\Developer\Documents\BUSCAPRECO\uSQLBUSCA.pas</Transaction>
+    <Transaction>2022/06/18 16:44:00.000.374,C:\Users\Developer\Documents\BUSCAPRECO\uSQLBUSCA.pas=C:\Users\Developer\Documents\BUSCAPRECO\uSQL.pas</Transaction>
+    <Transaction>2022/06/18 16:54:24.000.650,C:\Users\Developer\Documents\BUSCAPRECO\uSQL.pas=</Transaction>
+    <Transaction>2022/06/18 17:24:52.000.177,=C:\Users\Developer\Documents\BUSCAPRECO\uSQL.pas</Transaction>
+    <Transaction>2022/06/18 17:50:49.954,C:\Users\Developer\Documents\BUSCAPRECO\uSQL.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
